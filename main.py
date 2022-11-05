@@ -7,10 +7,6 @@ import requests
 
 
 
-openai.api_key ="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"
-
-
-
 st.title('INSTALL-E - Instagram Image Generator with DALL-E')
 
 st.info("""
