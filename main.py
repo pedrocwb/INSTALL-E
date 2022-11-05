@@ -47,3 +47,8 @@ except Exception as e:
 
 
 
+st.subheader('Made with :heart: by [Pedro Martins](http://linkedin.com/in/pedrocwb)')
+
+
+
+
